@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Hi, my name is José Guilherme, and I’m currently studying IT at Vila Velha University. I am very curious and always trying new things.
+Hi, my name is José Guilherme, and I’m currently studying IT at Vila Velha University. I am very curious and always trying new things over here.
 <br clear="both">
 
 ###
